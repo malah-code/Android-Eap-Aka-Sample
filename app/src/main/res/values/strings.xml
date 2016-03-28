@@ -14,7 +14,7 @@
         completions."
     </string>
     <string name="WiFi_SSID">WiFi SSID</string>
-    <string name="wifiDefaultName">eap-aka-ansi</string>
+    <string name="wifiDefaultName">any-wifi</string>
     <string name="connect">Connect</string>
-    <string name="eap_aka_ansi2">\"eap-aka-ansi\"</string>
+    <string name="eap_aka_ansi2">\"eap-aka-any\"</string>
 </resources>
