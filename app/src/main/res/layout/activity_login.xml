@@ -22,7 +22,8 @@
     <ScrollView
         android:id="@+id/login_form"
         android:layout_width="311dp"
-        android:layout_height="match_parent">
+        android:layout_height="match_parent"
+        android:fillViewport="false">
 
         <LinearLayout
             android:id="@+id/email_login_form"
@@ -44,7 +45,7 @@
                     android:inputType="text"
                     android:maxLines="1"
                     android:singleLine="true"
-                    android:text="@string/eap_aka_ansi2" />
+                    android:text="&quot;&quot;" />
 
             </android.support.design.widget.TextInputLayout>
 
